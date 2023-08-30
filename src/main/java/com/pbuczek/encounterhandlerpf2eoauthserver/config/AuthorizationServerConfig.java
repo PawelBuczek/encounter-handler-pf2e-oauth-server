@@ -1,4 +1,4 @@
-package com.pbuczek.encounterhandlerpf2eoauthserver.security;
+package com.pbuczek.encounterhandlerpf2eoauthserver.config;
 
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;
